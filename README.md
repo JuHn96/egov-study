@@ -3,6 +3,10 @@
 전자정부 표준프레임워크(eGovFrame)를 단순히 따라 하는 것이 아니라,
 Java, Spring, Web, DB, Docker 등 기반 원리부터 이해하며 학습하는 저장소입니다.
 
+## 학습 기록
+상세한 학습 내용과 진행 과정은 Notion에서 확인할 수 있습니다.  
+[Notion](https://acute-throne-23e.notion.site/3ea8cae706e6802fba9ed97a0102e617)
+
 ## 학습 목표
 
 - Linux / WSL 기반 개발환경 구성
