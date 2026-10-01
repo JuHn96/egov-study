@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+                             https://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+<!-- Maven이 사용하는 POM 모델 형식의 버전 -->
+<modelVersion>4.0.0</modelVersion>
+
+<!-- 프로젝트/조직을 구분하는 큰 이름 -->
+<groupId>com.juhn.study</groupId>
+<!-- 이 프로젝트 자체의 이름 -->
+<artifactId>maven-basic</artifactId>
+<!-- 이 프로젝트 결과물의 버전 -->
+<version>1.0-SNAPSHOT</version>
+
+<properties>
+    <!-- 이 프로젝트를 Java21 기준으로 컴파일 -->
+    <maven.compiler.release>21</maven.compiler.release>
+    <!-- 소스파일 문자 인코딩을 UTF-8로 명시 -->
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+</properties>
+
+</project>
